@@ -1,4 +1,4 @@
-# Linux Fundamentals Assignment
+# Linux Fundamentals 
 
 This repository contains a script and corresponding output for basic Linux file system navigation, file and directory operations, permission changes, user management, and package installation.
 
