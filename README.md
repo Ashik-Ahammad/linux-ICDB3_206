@@ -8,7 +8,7 @@ This repository contains a script and corresponding output for basic Linux file 
     ```sh
     ls ~
     ```
-    *This command lists all files and directories in your home directory.*
+    *This command lists all files and directories in home directory.*
     ![image](https://github.com/user-attachments/assets/b198e5c7-2845-48c3-b4d6-a78bd88b0244)
 
 
@@ -39,11 +39,11 @@ This repository contains a script and corresponding output for basic Linux file 
 
 ## File and Directory Operations
 
-1. **Create a directory named `linux_fundamentals` in your home directory:**
+1. **Create a directory named `linux_fundamentals` in  home directory:**
     ```sh
     mkdir ~/linux_fundamentals
     ```
-    *Creates a new directory called `linux_fundamentals` in your home directory.*
+    *Creates a new directory called `linux_fundamentals` in  home directory.*
    ![image](https://github.com/user-attachments/assets/55b4a3b7-a598-4fc3-a3c5-aade6a3db719)
 
 
@@ -100,7 +100,7 @@ This repository contains a script and corresponding output for basic Linux file 
 
 ## File Modification
 
-1. **Create a file named `example.txt` in your home directory:**
+1. **Create a file named `example.txt` in  home directory:**
     ```sh
     touch ~/example.txt
     ```
@@ -135,7 +135,7 @@ This repository contains a script and corresponding output for basic Linux file 
 
 ## Ownership
 
-1. **Create a directory named `project` in your home directory:**
+1. **Create a directory named `project` in  home directory:**
     ```sh
     mkdir ~/project
     ```
@@ -248,7 +248,7 @@ This repository contains a script and corresponding output for basic Linux file 
 
 ## Hard/Soft Link
 
-1. **Create a file named `original.txt` in your home directory:**
+1. **Create a file named `original.txt` in  home directory:**
     ```sh
     touch ~/original.txt
     ```
@@ -281,7 +281,7 @@ This repository contains a script and corresponding output for basic Linux file 
    ![image](https://github.com/user-attachments/assets/02d6abee-5afa-48ac-be79-f9625640f916)
 
 
-5. **Create a file named `datafile.txt` in your home directory:**
+5. **Create a file named `datafile.txt` in  home directory:**
     ```sh
     touch ~/datafile.txt
     ```
@@ -322,11 +322,11 @@ This repository contains a script and corresponding output for basic Linux file 
     ![image](https://github.com/user-attachments/assets/8bebb731-bcdf-4dbf-8a54-0aae9e67aaff)
 
 
-10. **Find all `.txt` files in your home directory:**
+10. **Find all `.txt` files in  home directory:**
     ```sh
     find ~ -name "*.txt"
     ```
-    *Searches for all `.txt` files in your home directory.*
+    *Searches for all `.txt` files in  home directory.*
     ![image](https://github.com/user-attachments/assets/e93db0ad-955d-4932-88ad-c4c18ec2e094)
 
 
